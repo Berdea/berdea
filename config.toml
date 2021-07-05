@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://berdea.github.io/berdea/"
+baseURL = "https://berdea.github.io"
 languageCode = "en"
 title = "Hargo | Hugo Ecommerce Site"
 theme = "hargo"
